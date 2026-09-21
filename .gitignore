@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Media & Recordings
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.pytest_cache/
